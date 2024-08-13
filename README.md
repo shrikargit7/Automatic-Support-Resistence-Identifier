@@ -1,4 +1,4 @@
-#Automatic Resistance and Support Identifier
+# Automatic Resistance and Support Identifier
 
 As a part of asset trading, there is a concept of technical analysis, under technical analysis, exists the concept of support and resistance.
 
